@@ -6,7 +6,9 @@
 </br>
 📰 My publication:
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹[Contact-free Airport Borders with Biometrics-on-the-Move](https://www.researchgate.net/publication/352845575_Contact-free_Airport_Borders_with_Biometrics-on-the-Move)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹[Contact-free Airport Borders with Biometrics-on-the-Move](https://ieeexplore.ieee.org/document/9465075)
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹[Temporal Convolutional Networks for Robust Face Liveness Detection](https://link.springer.com/chapter/10.1007/978-3-031-04881-4_21)
 </br>
 📫 How to reach me:
 </br>
