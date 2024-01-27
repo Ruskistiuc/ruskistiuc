@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on ... -->
-👀 I'm interested in Mobile World <img width="18" src="https://user-images.githubusercontent.com/23242658/160707094-9ba8a05b-5de2-44de-8105-72441e73d25a.png"/> </br>
-🌱 I’m currently learning <img width="18" src="https://user-images.githubusercontent.com/23242658/160706416-04622bb8-5cbd-469d-a067-b9e4fbf81dbd.png"/> French & 🚀Jetpack Compose
-</br>
+👀 I'm interested in Mobile World </br>
+🌱 I’m currently learning French & Spanish and Jetpack Compose </br>
 📰 My publications:
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹[Contact-free Airport Borders with Biometrics-on-the-Move](https://ieeexplore.ieee.org/document/9465075)
