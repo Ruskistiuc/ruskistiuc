@@ -9,6 +9,8 @@
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹[Temporal Convolutional Networks for Robust Face Liveness Detection](https://link.springer.com/chapter/10.1007/978-3-031-04881-4_21)
 </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹[Automatic ceramic identification using machine learning](https://www.tandfonline.com/doi/full/10.1080/20548923.2024.2343214)
+</br>
 📫 How to reach me:
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 r_padnevych@hotmail.com
